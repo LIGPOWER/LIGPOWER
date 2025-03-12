@@ -2,7 +2,7 @@
 
 # LIGPOWER Brand UAV Propulsion Systems
 
-Welcome to the official GitHub repository for ABC brand's UAV propulsion systems! Here, we will regularly update and share valuable resources, technical documentation, and insights related to our cutting-edge propulsion technologies.
+Welcome to the official GitHub repository for LIGPOWER brand's UAV propulsion systems! Here, we will regularly update and share valuable resources, technical documentation, and insights related to our cutting-edge propulsion technologies.
 
 ## About LIGPOWER Brand
 
